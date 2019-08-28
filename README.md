@@ -19,7 +19,7 @@ The project is about the patients show up and no show up to their appointments, 
 - 'Patients show status for their appointments' notebook file that contain code work for the project.
 
 ### Results
-The results found are in the <a href='https://medium.com/@aeshaalsh/why-patients-miss-their-scheduled-appointments-64189aad98dd?postPublishedType=initial'>post</a>.
+The results found in the <a href='https://medium.com/@aeshaalsh/why-patients-miss-their-scheduled-appointments-64189aad98dd?postPublishedType=initial'>post</a>.
 
 ### Licensing, Authors, Acknowledgements
 The data provider is Kaggle you can find the data descriptive information at the Kaggle link available <a href='https://www.kaggle.com/joniarroba/noshowappointments'>here</a>.
